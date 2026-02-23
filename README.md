@@ -1,2 +1,1 @@
-# safety-analytics
-Autonomous Ride-Hail Ops &amp; Safety Analytics Platform
+# Autonomous Ride-Hail Ops &amp; Safety Analytics Platform
